@@ -1,0 +1,24 @@
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\bin\Debug\خوارزمية هيل.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\bin\Debug\خوارزمية هيل.pdb
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.csprojResolveAssemblyReference.cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية_هيل.Form1.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية_هيل.Properties.Resources.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.csproj.GenerateResource.Cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.pdb
+C:\Users\DigitalNet\Documents\Visual Studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\bin\Debug\Bluebit.MatrixLibrary.dll
+C:\Users\DigitalNet\Documents\Visual Studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\bin\Debug\Bluebit.MatrixLibrary.xml
+C:\Users\DigitalNet\Documents\Visual Studio 2012\Projects\خوارزمية هيل\خوارزمية هيل\bin\Debug\MatrixClass.cs
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.exe
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.pdb
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\bin\Debug\MatrixClass.cs
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\bin\Debug\خوارزمية هيل.exe
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\bin\Debug\خوارزمية هيل.pdb
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\bin\Debug\Bluebit.MatrixLibrary.dll
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\bin\Debug\Bluebit.MatrixLibrary.xml
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.csprojResolveAssemblyReference.cache
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية_هيل.Form1.resources
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية_هيل.Properties.Resources.resources
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.csproj.GenerateResource.Cache
+E:\New folder\كورسات\التشفير\كورسي\4- المحاضرة الرابعة\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.exe
+E:\New folder\كورسات\التشفير\كورسي\4- المحاضرة الرابعة\تشفير\خوارزمية هيل\خوارزمية هيل\obj\Debug\خوارزمية هيل.pdb
